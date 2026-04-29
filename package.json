@@ -1,0 +1,10 @@
+{
+  "name": "tab-completion-mvp",
+  "version": "1.0.0",
+  "description": "Minimal tab-triggered completion demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
